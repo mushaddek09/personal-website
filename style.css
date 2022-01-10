@@ -1,0 +1,103 @@
+body{
+
+
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+
+p{
+
+color: dimgray;
+
+
+}
+
+.pink-color{
+
+color: 		#FF1493
+
+}
+
+.top-banner{
+
+ background-image: url(images/header-bg.png);
+ background-repeat: no-repeat;
+ background-position: center center;
+background-size: cover;
+
+}
+section{
+
+    height: 500px;
+    padding-bottom: 130px;
+}
+
+.half-width{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+padding-left: 2%;
+
+margin-bottom: 200px;
+margin-top: 200px;
+      
+
+}
+
+.half-width img{
+
+    width: 100%;
+
+
+}
+
+.link-button{
+
+    text-decoration: none;
+    background-color: #FF1493;
+    border-radius: 5px;
+    padding: 1px 20px;
+    font-weight: 700;
+    color: white;
+
+
+}
+
+.bio-area{
+
+background-image: url(images/biography-bg.png);
+background-repeat: no-repeat;
+margin-top: 100px;
+
+
+
+}
+.half-width2{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+    
+      
+
+}
+
+.half-width2 img  {
+
+    width: 100%
+   
+   }
+
+  
+
+  
+
+
+
+
